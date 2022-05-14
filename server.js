@@ -6,6 +6,7 @@ if (process.env.NODE_ENV !== 'production') {
 const express = require('express')
 const app = express()
 const expressLayouts = require('express-ejs-layouts')
+const cors = require('cors')
 
 const indexRouter = require('./routes/index')
 const metaRouter = require('./routes/metas')
@@ -13,6 +14,7 @@ const metaRouter = require('./routes/metas')
 app.set('view engine', 'ejs')
 app.set('views', __dirname + '/views')
 app.set('layout', 'layouts/layout')
+app.use(cors())
 app.use(expressLayouts)
 app.use(express.static('public'))
 
