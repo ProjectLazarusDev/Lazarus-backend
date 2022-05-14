@@ -8,6 +8,7 @@ const app = express()
 const expressLayouts = require('express-ejs-layouts')
 
 const indexRouter = require('./routes/index')
+const metaRouter = require('./routes/metas')
 
 app.set('view engine', 'ejs')
 app.set('views', __dirname + '/views')
@@ -24,5 +25,6 @@ db.on('error', error => console.error(error))
 db.once('open', () => console.log('Connected to Mongoose'))
 
 app.use('/', indexRouter);
+app.use('/metas', metaRouter);
 
 app.listen(process.env.PORT || 3001)
