@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_79.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.io/meta/video_79.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0078",
+    "dna": "04_19_20_04_02_05_01|S00Testing_3100",
+    "coreLevel": 10,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smolshark"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Diamonds"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cherry Blossoms"
+        }
+    ]
+}

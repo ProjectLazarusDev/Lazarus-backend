@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_100.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.io/meta/video_100.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0099",
+    "dna": "01_17_05_03_04_05_21|S00Testing_2800",
+    "coreLevel": 0,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "KOTF Crown"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Angry Vector"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Teal Service"
+        }
+    ]
+}

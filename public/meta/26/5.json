@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_26.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.io/meta/video_26.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0025",
+    "dna": "08_21_19_04_04_04_07|S00Testing_3000",
+    "coreLevel": 5,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Cat Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Elefrens"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Jewels"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Beach"
+        }
+    ]
+}
