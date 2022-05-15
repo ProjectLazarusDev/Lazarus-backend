@@ -1,35 +1,35 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_91.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_91.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_91.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_91.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0090",
-    "dna": "03_06_06_02_01_01_18|S00Testing_2800",
+    "name": "Bobot #0091",
+    "dna": "06_13_17_03_02_05_19|S01BobotGenesis_2400",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Cap"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Normal"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",

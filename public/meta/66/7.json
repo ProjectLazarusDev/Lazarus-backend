@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_66.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_66.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_66.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_66.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0065",
-    "dna": "06_16_02_05_01_04_24|S00Testing_2700",
+    "name": "Bobot #0066",
+    "dna": "07_04_25_02_02_01_12|S01BobotGenesis_2125",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Digi Halo"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cold Stone"
+            "value": "Ice Cold"
         }
     ]
 }

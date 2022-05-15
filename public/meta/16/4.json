@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_16.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_16.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_16.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_16.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0015",
-    "dna": "02_21_15_06_02_01_19|S00Testing_3000",
+    "name": "Bobot #0016",
+    "dna": "03_09_03_01_01_03_19|S01BobotGenesis_2550",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Lady Red"
         }
     ]
 }

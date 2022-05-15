@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_11.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_11.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_11.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_11.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0010",
-    "dna": "02_24_22_05_04_05_01|S00Testing_3100",
+    "name": "Bobot #0011",
+    "dna": "01_11_24_02_01_05_04|S01BobotGenesis_2800",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Annoyed"
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Ocean"
         }
     ]
 }

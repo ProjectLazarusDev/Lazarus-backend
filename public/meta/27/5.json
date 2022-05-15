@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_27.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_27.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_27.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_27.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0026",
-    "dna": "08_18_01_01_04_03_03|S00Testing_3000",
+    "name": "Bobot #0027",
+    "dna": "01_17_22_02_02_04_22|S01BobotGenesis_2625",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "KOTF Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Teal Service"
         }
     ]
 }

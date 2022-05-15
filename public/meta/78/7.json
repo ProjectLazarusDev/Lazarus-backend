@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_78.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_78.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_78.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_78.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0077",
-    "dna": "01_20_26_06_02_02_24|S00Testing_2800",
+    "name": "Bobot #0078",
+    "dna": "03_05_10_01_02_05_17|S01BobotGenesis_2550",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "LostDonkey BFF"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof "
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cold Stone"
+            "value": "Baige Tone"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_62.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_62.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_62.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_62.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0061",
-    "dna": "03_18_01_04_02_02_15|S00Testing_3200",
+    "name": "Bobot #0062",
+    "dna": "03_09_22_02_01_03_19|S01BobotGenesis_2700",
     "coreLevel": 10,
     "attributes": [
         {
@@ -13,27 +13,27 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Lady Red"
         }
     ]
 }

@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_25.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_25.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_25.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_25.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0024",
-    "dna": "05_16_17_06_02_02_17|S00Testing_3200",
+    "name": "Bobot #0025",
+    "dna": "06_11_04_02_01_02_07|S01BobotGenesis_2550",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Iron Suit"
+            "value": "Beach"
         }
     ]
 }

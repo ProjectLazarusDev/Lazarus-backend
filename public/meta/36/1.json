@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_36.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_36.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_36.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_36.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0035",
-    "dna": "06_19_14_01_03_04_15|S00Testing_3100",
+    "name": "Bobot #0036",
+    "dna": "01_23_18_03_02_02_04|S01BobotGenesis_1975",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smolshark"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Glasses Trance"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Ocean"
         }
     ]
 }

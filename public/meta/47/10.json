@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_47.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_47.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_47.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_47.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0046",
-    "dna": "01_18_18_03_02_04_08|S00Testing_2800",
+    "name": "Bobot #0047",
+    "dna": "02_28_22_02_02_01_24|S01BobotGenesis_2550",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Sneaky Beanz"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses Trance"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Bumblebee"
+            "value": "Cold Stone"
         }
     ]
 }

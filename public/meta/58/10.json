@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_58.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_58.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_58.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_58.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0057",
-    "dna": "05_16_01_05_01_04_03|S00Testing_2900",
+    "name": "Bobot #0058",
+    "dna": "06_09_04_06_02_03_10|S01BobotGenesis_2775",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Robotics"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Sakura"
         }
     ]
 }

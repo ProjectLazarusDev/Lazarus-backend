@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_13.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_13.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_13.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_13.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0012",
-    "dna": "03_06_14_06_04_01_23|S00Testing_2800",
+    "name": "Bobot #0013",
+    "dna": "06_02_22_02_02_04_02|S01BobotGenesis_2550",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Sir Bobot Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Toxic"
         }
     ]
 }

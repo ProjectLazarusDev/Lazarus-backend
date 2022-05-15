@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_95.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_95.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_95.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_95.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0094",
-    "dna": "06_17_13_03_03_03_17|S00Testing_2900",
+    "name": "Bobot #0095",
+    "dna": "04_28_02_03_02_01_18|S01BobotGenesis_2250",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "Sneaky Beanz"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
@@ -25,11 +25,11 @@
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",

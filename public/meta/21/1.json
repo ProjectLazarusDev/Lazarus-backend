@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_21.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_21.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_21.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_21.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0020",
-    "dna": "01_02_25_04_01_01_14|S00Testing_2400",
+    "name": "Bobot #0021",
+    "dna": "03_06_13_02_01_03_07|S01BobotGenesis_2250",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Sir Bobot Hat"
+            "value": "Senses"
         },
         {
             "trait_type": "LCD",
-            "value": "Sparkly Bobot"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunset"
+            "value": "Beach"
         }
     ]
 }

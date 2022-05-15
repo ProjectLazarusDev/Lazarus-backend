@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_100.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_100.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_100.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_100.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0099",
-    "dna": "01_17_05_03_04_05_21|S00Testing_2800",
+    "name": "Bobot #0100",
+    "dna": "07_23_12_03_02_01_14|S01BobotGenesis_2025",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Vector"
+            "value": "Heart Glass"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Hue 9"
         }
     ]
 }

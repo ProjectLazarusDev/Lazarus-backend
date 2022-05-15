@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_87.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_87.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_87.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_87.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0086",
-    "dna": "03_05_23_01_02_03_13|S00Testing_2800",
+    "name": "Bobot #0087",
+    "dna": "02_18_25_01_02_01_09|S01BobotGenesis_2700",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "Smulips tulips"
         },
         {
             "trait_type": "LCD",
-            "value": "Shocked"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Fire Red"
         }
     ]
 }

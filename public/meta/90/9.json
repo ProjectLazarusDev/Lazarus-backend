@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_90.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_90.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_90.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_90.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0089",
-    "dna": "08_23_01_06_03_03_01|S00Testing_3100",
+    "name": "Bobot #0090",
+    "dna": "03_11_16_01_02_05_11|S01BobotGenesis_2400",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Baby Girl"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Lady SHadow"
         }
     ]
 }

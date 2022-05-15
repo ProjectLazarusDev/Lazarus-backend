@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_12.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_12.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_12.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_12.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0011",
-    "dna": "04_21_16_05_03_05_02|S00Testing_3000",
+    "name": "Bobot #0012",
+    "dna": "02_11_10_01_03_01_22|S01BobotGenesis_2850",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Baby Girl"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Toxic"
+            "value": "Teal Service"
         }
     ]
 }

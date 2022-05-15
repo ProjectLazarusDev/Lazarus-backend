@@ -1,19 +1,19 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_22.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_22.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_22.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_22.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0021",
-    "dna": "08_18_18_03_02_05_19|S00Testing_3200",
+    "name": "Bobot #0022",
+    "dna": "03_09_18_01_02_03_19|S01BobotGenesis_2325",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Lady Red"
         }
     ]
 }

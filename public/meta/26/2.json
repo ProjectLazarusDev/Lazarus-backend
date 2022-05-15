@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_26.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_26.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_26.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_26.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0025",
-    "dna": "08_21_19_04_04_04_07|S00Testing_3000",
+    "name": "Bobot #0026",
+    "dna": "06_11_05_04_01_04_08|S01BobotGenesis_2400",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Jewels"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
@@ -25,7 +25,7 @@
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Bumblebee"
         }
     ]
 }

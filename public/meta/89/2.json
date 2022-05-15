@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_89.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_89.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_89.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_89.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0088",
-    "dna": "08_04_02_04_04_04_16|S00Testing_2800",
+    "name": "Bobot #0089",
+    "dna": "05_02_06_03_03_05_16|S01BobotGenesis_2250",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Digi Halo"
+            "value": "Sir Bobot Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Flame Hot"
         }
     ]
 }

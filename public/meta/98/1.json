@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_98.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_98.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_98.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_98.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0097",
-    "dna": "03_19_22_06_04_05_18|S00Testing_3300",
+    "name": "Bobot #0098",
+    "dna": "07_16_02_01_02_03_18|S01BobotGenesis_2550",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smolshark"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Annoyed"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Lady Red"
+            "value": "Iron Suit"
         }
     ]
 }

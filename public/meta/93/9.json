@@ -1,15 +1,15 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_93.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_93.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_93.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_93.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0092",
-    "dna": "07_07_04_06_03_03_06|S00Testing_2300",
+    "name": "Bobot #0093",
+    "dna": "06_07_03_03_02_01_23|S01BobotGenesis_2475",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Sunrise"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_32.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_32.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_32.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_32.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0031",
-    "dna": "08_16_15_04_04_02_15|S00Testing_3000",
+    "name": "Bobot #0032",
+    "dna": "07_11_14_01_01_05_20|S01BobotGenesis_2700",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Secret Service"
         }
     ]
 }

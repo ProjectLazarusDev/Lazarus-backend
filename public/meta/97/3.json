@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_97.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_97.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_97.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_97.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0096",
-    "dna": "07_18_21_02_02_01_13|S00Testing_2700",
+    "name": "Bobot #0097",
+    "dna": "05_16_24_02_01_03_14|S01BobotGenesis_2700",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Diamond Trance"
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
@@ -25,11 +25,11 @@
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",

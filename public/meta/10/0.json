@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_10.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_10.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_10.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_10.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0009",
-    "dna": "03_24_02_06_02_02_14|S00Testing_3200",
+    "name": "Bobot #0010",
+    "dna": "03_05_04_01_04_02_14|S01BobotGenesis_2400",
     "coreLevel": 0,
     "attributes": [
         {
@@ -13,19 +13,19 @@
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Shark Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunset"
+            "value": "Hue 9"
         }
     ]
 }

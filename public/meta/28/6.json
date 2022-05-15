@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_28.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_28.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_28.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_28.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0027",
-    "dna": "02_20_17_01_04_02_05|S00Testing_2900",
+    "name": "Bobot #0028",
+    "dna": "06_05_25_05_02_03_02|S01BobotGenesis_2550",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "LostDonkey BFF"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Roses"
+            "value": "Toxic"
         }
     ]
 }

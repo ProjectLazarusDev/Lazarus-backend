@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_17.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_17.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_17.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_17.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0016",
-    "dna": "01_17_10_04_01_01_12|S00Testing_2900",
+    "name": "Bobot #0017",
+    "dna": "02_21_17_04_04_04_01|S01BobotGenesis_1975",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "Elefrens"
         },
         {
             "trait_type": "LCD",
-            "value": "Game Over"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Shark Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Cherry Blossoms"
         }
     ]
 }

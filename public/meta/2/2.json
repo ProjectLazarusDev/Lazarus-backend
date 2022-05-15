@@ -1,19 +1,19 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_2.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_2.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_2.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_2.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0001",
-    "dna": "08_19_06_06_02_05_07|S00Testing_3400",
+    "name": "Bobot #0002",
+    "dna": "05_18_06_04_03_03_20|S01BobotGenesis_2250",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smolshark"
+            "value": "Smulips tulips"
         },
         {
             "trait_type": "LCD",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Secret Service"
         }
     ]
 }

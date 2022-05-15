@@ -1,15 +1,15 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_9.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_9.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_9.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_9.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0008",
-    "dna": "06_05_01_06_04_01_14|S00Testing_2500",
+    "name": "Bobot #0009",
+    "dna": "01_05_22_03_02_03_22|S01BobotGenesis_3000",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunset"
+            "value": "Teal Service"
         }
     ]
 }

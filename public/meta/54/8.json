@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_54.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_54.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_54.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_54.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0053",
-    "dna": "05_24_13_06_02_01_19|S00Testing_3200",
+    "name": "Bobot #0054",
+    "dna": "02_18_14_03_01_01_18|S01BobotGenesis_2550",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Smulips tulips"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Iron Suit"
         }
     ]
 }

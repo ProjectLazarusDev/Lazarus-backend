@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_3.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_3.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_3.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_3.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0002",
-    "dna": "06_24_02_06_02_03_02|S00Testing_3000",
+    "name": "Bobot #0003",
+    "dna": "07_16_23_03_03_04_13|S01BobotGenesis_1950",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Shocked"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Toxic"
+            "value": "Pastels"
         }
     ]
 }

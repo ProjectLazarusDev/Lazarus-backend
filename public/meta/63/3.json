@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_63.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_63.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_63.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_63.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0062",
-    "dna": "05_20_01_01_03_04_15|S00Testing_3100",
+    "name": "Bobot #0063",
+    "dna": "06_01_25_02_02_04_24|S01BobotGenesis_2700",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "LostDonkey BFF"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Cold Stone"
         }
     ]
 }

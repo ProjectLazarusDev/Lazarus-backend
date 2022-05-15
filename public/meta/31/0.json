@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_31.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_31.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_31.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_31.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0030",
-    "dna": "03_18_13_02_02_03_23|S00Testing_3300",
+    "name": "Bobot #0031",
+    "dna": "02_22_15_05_02_03_24|S01BobotGenesis_2100",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "SmolBear"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Aloof Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Cold Stone"
         }
     ]
 }

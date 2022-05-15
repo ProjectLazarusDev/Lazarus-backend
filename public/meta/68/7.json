@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_68.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_68.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_68.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_68.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0067",
-    "dna": "01_17_15_03_03_02_24|S00Testing_2600",
+    "name": "Bobot #0068",
+    "dna": "07_04_04_05_02_04_16|S01BobotGenesis_2100",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "Digi Halo"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cold Stone"
+            "value": "Flame Hot"
         }
     ]
 }

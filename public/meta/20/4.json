@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_20.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_20.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_20.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_20.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0019",
-    "dna": "08_21_13_06_04_02_12|S00Testing_3200",
+    "name": "Bobot #0020",
+    "dna": "01_01_06_01_02_03_21|S01BobotGenesis_2700",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Pink Suite"
         }
     ]
 }

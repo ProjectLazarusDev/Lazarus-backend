@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_57.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_57.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_57.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_57.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0056",
-    "dna": "03_21_04_02_02_02_06|S00Testing_3100",
+    "name": "Bobot #0057",
+    "dna": "05_05_11_01_01_01_11|S01BobotGenesis_2550",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Error 404"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Lady SHadow"
         }
     ]
 }

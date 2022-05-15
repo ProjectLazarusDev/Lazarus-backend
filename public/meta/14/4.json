@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_14.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_14.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_14.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_14.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0013",
-    "dna": "03_23_19_01_04_04_02|S00Testing_3000",
+    "name": "Bobot #0014",
+    "dna": "06_29_01_03_01_02_03|S01BobotGenesis_1950",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Tori Zero"
         },
         {
             "trait_type": "LCD",
-            "value": "Jewels"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Toxic"
+            "value": "Valentines"
         }
     ]
 }

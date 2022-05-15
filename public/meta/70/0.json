@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_70.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_70.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_70.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_70.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0069",
-    "dna": "03_24_23_02_04_03_01|S00Testing_3200",
+    "name": "Bobot #0070",
+    "dna": "03_18_02_02_01_01_09|S01BobotGenesis_2550",
     "coreLevel": 0,
     "attributes": [
         {
@@ -13,11 +13,11 @@
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Smulips tulips"
         },
         {
             "trait_type": "LCD",
-            "value": "Shocked"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Fire Red"
         }
     ]
 }

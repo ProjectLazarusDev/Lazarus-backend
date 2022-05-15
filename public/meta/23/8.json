@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_23.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_23.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_23.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_23.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0022",
-    "dna": "03_19_17_01_02_01_11|S00Testing_2900",
+    "name": "Bobot #0023",
+    "dna": "06_07_05_02_03_03_13|S01BobotGenesis_2700",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Smolshark"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Lady SHadow"
+            "value": "Pastels"
         }
     ]
 }

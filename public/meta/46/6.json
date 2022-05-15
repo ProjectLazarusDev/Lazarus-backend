@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_46.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_46.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_46.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_46.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0045",
-    "dna": "08_01_24_02_03_04_21|S00Testing_2900",
+    "name": "Bobot #0046",
+    "dna": "02_25_22_04_02_03_02|S01BobotGenesis_2550",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Moon Traffic Cone"
+            "value": "GorillaDAO"
         },
         {
             "trait_type": "LCD",
-            "value": "Cry Baby"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Toxic"
         }
     ]
 }

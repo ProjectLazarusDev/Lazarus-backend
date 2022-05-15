@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_35.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_35.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_35.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_35.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0034",
-    "dna": "08_06_24_06_03_04_07|S00Testing_2800",
+    "name": "Bobot #0035",
+    "dna": "06_01_04_02_03_05_08|S01BobotGenesis_2550",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Cry Baby"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Bumblebee"
         }
     ]
 }

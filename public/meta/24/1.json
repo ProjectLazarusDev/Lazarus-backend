@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_24.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_24.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_24.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_24.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0023",
-    "dna": "08_24_02_02_03_02_20|S00Testing_3100",
+    "name": "Bobot #0024",
+    "dna": "06_16_01_03_02_01_16|S01BobotGenesis_2850",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pink Suite"
+            "value": "Flame Hot"
         }
     ]
 }

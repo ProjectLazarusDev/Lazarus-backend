@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_34.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_34.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_34.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_34.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0033",
-    "dna": "03_24_15_03_02_03_07|S00Testing_3000",
+    "name": "Bobot #0034",
+    "dna": "01_21_07_03_01_01_13|S01BobotGenesis_2425",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Elefrens"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Stunned"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Pastels"
         }
     ]
 }

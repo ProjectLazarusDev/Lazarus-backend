@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_80.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_80.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_80.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_80.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0079",
-    "dna": "07_18_01_06_04_04_19|S00Testing_2900",
+    "name": "Bobot #0080",
+    "dna": "01_07_02_02_02_01_16|S01BobotGenesis_3150",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Flame Hot"
         }
     ]
 }

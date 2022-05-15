@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_73.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_73.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_73.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_73.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0072",
-    "dna": "05_17_07_05_01_04_13|S00Testing_3000",
+    "name": "Bobot #0073",
+    "dna": "02_05_05_01_02_01_20|S01BobotGenesis_3000",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Stunned"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Secret Service"
         }
     ]
 }

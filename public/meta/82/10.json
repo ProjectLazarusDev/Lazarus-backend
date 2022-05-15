@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_82.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_82.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_82.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_82.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0081",
-    "dna": "05_22_04_04_03_03_16|S00Testing_2900",
+    "name": "Bobot #0082",
+    "dna": "07_23_21_05_03_02_13|S01BobotGenesis_1275",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Diamond Trance"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Pastels"
         }
     ]
 }

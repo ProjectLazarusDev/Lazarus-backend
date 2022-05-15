@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_64.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_64.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_64.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_64.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0063",
-    "dna": "04_07_13_04_01_02_23|S00Testing_2600",
+    "name": "Bobot #0064",
+    "dna": "01_01_26_02_01_01_14|S01BobotGenesis_3000",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Aloof "
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Hue 9"
         }
     ]
 }

@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_48.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_48.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_48.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_48.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0047",
-    "dna": "04_24_15_01_02_04_07|S00Testing_3000",
+    "name": "Bobot #0048",
+    "dna": "03_07_16_01_01_05_03|S01BobotGenesis_2175",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Baby Girl"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Valentines"
         }
     ]
 }

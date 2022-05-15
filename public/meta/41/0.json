@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_41.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_41.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_41.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_41.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0040",
-    "dna": "02_09_25_03_02_03_23|S00Testing_2400",
+    "name": "Bobot #0041",
+    "dna": "05_28_01_01_01_01_04|S01BobotGenesis_2650",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "Sneaky Beanz"
         },
         {
             "trait_type": "LCD",
-            "value": "Sparkly Bobot"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Ocean"
         }
     ]
 }

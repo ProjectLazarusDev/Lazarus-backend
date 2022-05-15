@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_75.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_75.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_75.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_75.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0074",
-    "dna": "02_05_07_04_04_01_13|S00Testing_2600",
+    "name": "Bobot #0075",
+    "dna": "01_25_09_01_04_03_10|S01BobotGenesis_2325",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "GorillaDAO"
         },
         {
             "trait_type": "LCD",
-            "value": "Stunned"
+            "value": "Out Of Service"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Sakura"
         }
     ]
 }

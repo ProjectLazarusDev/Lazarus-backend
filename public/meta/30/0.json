@@ -1,35 +1,35 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_30.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_30.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_30.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_30.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0029",
-    "dna": "08_02_20_04_02_01_04|S00Testing_2700",
+    "name": "Bobot #0030",
+    "dna": "03_17_22_02_03_03_04|S01BobotGenesis_2425",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Sir Bobot Hat"
+            "value": "KOTF Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Diamonds"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",

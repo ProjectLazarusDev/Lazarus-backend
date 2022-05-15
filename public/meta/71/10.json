@@ -1,19 +1,19 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_71.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_71.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_71.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_71.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0070",
-    "dna": "08_24_01_02_03_03_08|S00Testing_2800",
+    "name": "Bobot #0071",
+    "dna": "06_01_01_02_01_05_22|S01BobotGenesis_3000",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Bumblebee"
+            "value": "Teal Service"
         }
     ]
 }

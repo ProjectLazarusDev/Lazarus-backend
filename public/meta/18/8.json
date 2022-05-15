@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_18.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_18.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_18.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_18.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0017",
-    "dna": "08_13_09_04_03_05_01|S00Testing_2600",
+    "name": "Bobot #0018",
+    "dna": "08_08_03_01_02_01_10|S01BobotGenesis_2325",
     "coreLevel": 8,
     "attributes": [
         {
@@ -13,27 +13,27 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "Breakfast"
         },
         {
             "trait_type": "LCD",
-            "value": "Out Of Service"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Sakura"
         }
     ]
 }

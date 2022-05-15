@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_81.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_81.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_81.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_81.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0080",
-    "dna": "05_03_08_04_02_04_23|S00Testing_2500",
+    "name": "Bobot #0081",
+    "dna": "02_07_13_01_03_01_13|S01BobotGenesis_2700",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Whos Cat?"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Coded"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Pastels"
         }
     ]
 }

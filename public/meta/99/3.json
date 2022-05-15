@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_99.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_99.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_99.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_99.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0098",
-    "dna": "02_21_22_05_04_03_13|S00Testing_2900",
+    "name": "Bobot #0099",
+    "dna": "02_28_22_04_02_01_17|S01BobotGenesis_2550",
     "coreLevel": 3,
     "attributes": [
         {
@@ -13,7 +13,7 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Sneaky Beanz"
         },
         {
             "trait_type": "LCD",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Baige Tone"
         }
     ]
 }

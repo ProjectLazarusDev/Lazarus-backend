@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_45.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_45.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_45.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_45.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0044",
-    "dna": "08_22_15_02_01_05_21|S00Testing_3100",
+    "name": "Bobot #0045",
+    "dna": "01_05_17_04_02_05_05|S01BobotGenesis_2550",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Roses"
         }
     ]
 }

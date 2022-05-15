@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_83.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_83.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_83.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_83.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0082",
-    "dna": "03_23_11_02_03_01_12|S00Testing_2900",
+    "name": "Bobot #0083",
+    "dna": "05_22_10_02_02_03_01|S01BobotGenesis_2550",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "SmolBear"
         },
         {
             "trait_type": "LCD",
-            "value": "Error 404"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Cherry Blossoms"
         }
     ]
 }

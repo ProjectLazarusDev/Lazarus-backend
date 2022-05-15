@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_61.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_61.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_61.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_61.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0060",
-    "dna": "01_13_23_02_01_05_12|S00Testing_2800",
+    "name": "Bobot #0061",
+    "dna": "06_09_02_01_01_01_01|S01BobotGenesis_3150",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Shocked"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Cherry Blossoms"
         }
     ]
 }

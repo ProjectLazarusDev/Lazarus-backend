@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_94.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_94.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_94.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_94.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0093",
-    "dna": "05_06_14_06_03_05_03|S00Testing_2700",
+    "name": "Bobot #0094",
+    "dna": "07_01_04_01_02_03_06|S01BobotGenesis_2700",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Starlight"
         }
     ]
 }

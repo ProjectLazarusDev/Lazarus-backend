@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_1.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_1.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_1.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_1.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0000",
-    "dna": "04_07_13_05_02_02_06|S00Testing_2600",
+    "name": "Bobot #0001",
+    "dna": "02_27_01_06_02_01_25|S01BobotsGenesis_0000",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Kaiju Kingz"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Robotics"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "The Kingz's "
         }
     ]
 }

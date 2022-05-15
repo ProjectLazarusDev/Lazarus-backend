@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_88.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_88.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_88.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_88.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0087",
-    "dna": "02_13_02_02_04_03_11|S00Testing_2200",
+    "name": "Bobot #0088",
+    "dna": "06_23_13_03_01_04_14|S01BobotGenesis_2400",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Lady SHadow"
+            "value": "Hue 9"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_84.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_84.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_84.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_84.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0083",
-    "dna": "02_17_07_05_03_03_17|S00Testing_3000",
+    "name": "Bobot #0084",
+    "dna": "03_25_14_01_02_01_04|S01BobotGenesis_2800",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "GorillaDAO"
         },
         {
             "trait_type": "LCD",
-            "value": "Stunned"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Iron Suit"
+            "value": "Ocean"
         }
     ]
 }

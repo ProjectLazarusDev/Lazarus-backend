@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_15.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_15.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_15.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_15.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0014",
-    "dna": "08_04_17_06_04_05_20|S00Testing_2900",
+    "name": "Bobot #0015",
+    "dna": "06_07_10_01_04_01_17|S01BobotGenesis_2550",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Digi Halo"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pink Suite"
+            "value": "Baige Tone"
         }
     ]
 }

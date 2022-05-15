@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_79.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_79.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_79.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_79.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0078",
-    "dna": "04_19_20_04_02_05_01|S00Testing_3100",
+    "name": "Bobot #0079",
+    "dna": "04_05_04_04_02_04_05|S01BobotGenesis_2400",
     "coreLevel": 5,
     "attributes": [
         {
@@ -13,11 +13,11 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Smolshark"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Diamonds"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Roses"
         }
     ]
 }

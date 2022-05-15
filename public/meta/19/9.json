@@ -1,19 +1,19 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_19.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_19.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_19.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_19.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0018",
-    "dna": "06_18_04_02_04_05_07|S00Testing_2900",
+    "name": "Bobot #0019",
+    "dna": "01_10_04_02_03_01_13|S01BobotGenesis_2700",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Pink Octopus"
         },
         {
             "trait_type": "LCD",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Pastels"
         }
     ]
 }

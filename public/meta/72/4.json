@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_72.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_72.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_72.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_72.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0071",
-    "dna": "08_16_06_02_02_01_15|S00Testing_3300",
+    "name": "Bobot #0072",
+    "dna": "04_11_13_01_03_03_20|S01BobotGenesis_2550",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Normal"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Secret Service"
         }
     ]
 }

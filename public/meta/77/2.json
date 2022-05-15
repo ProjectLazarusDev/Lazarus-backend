@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_77.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_77.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_77.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_77.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0076",
-    "dna": "05_22_17_06_02_05_03|S00Testing_3200",
+    "name": "Bobot #0077",
+    "dna": "02_07_24_04_01_05_16|S01BobotGenesis_2700",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Flame Hot"
         }
     ]
 }

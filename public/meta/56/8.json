@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_56.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_56.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_56.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_56.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0055",
-    "dna": "01_23_26_06_01_04_03|S00Testing_2900",
+    "name": "Bobot #0056",
+    "dna": "06_13_07_05_01_05_06|S01BobotGenesis_2550",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Cap"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof "
+            "value": "Stunned"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Starlight"
         }
     ]
 }

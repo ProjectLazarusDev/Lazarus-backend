@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWZKWRoktdtmUsFL1V85mk4mMqGhbZAAzvGtC197LLiYT/image_50.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_50.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.io/meta/video_50.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_50.mp4",
     "description": "Welcome to the bobot family",
-    "name": "Bobot #0049",
-    "dna": "03_04_13_05_03_01_19|S00Testing_2700",
+    "name": "Bobot #0050",
+    "dna": "04_26_25_02_01_05_04|S01BobotGenesis_2350",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Digi Halo"
+            "value": "Birds and Blades"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Ocean"
         }
     ]
 }
