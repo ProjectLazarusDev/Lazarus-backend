@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3673.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3673.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3673",
+    "dna": "01_08_02_05_01_04_06|S01BobotGenesis",
+    "coreLevel": 8,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Breakfast"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Stress Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Starlight"
+        }
+    ]
+}

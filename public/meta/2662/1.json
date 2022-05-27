@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2662.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2662.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2662",
+    "dna": "04_08_14_01_02_01_22|S01BobotGenesis",
+    "coreLevel": 1,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Breakfast"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Agony  Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Teal Service"
+        }
+    ]
+}

@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_93.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_93.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_93.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_93.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0093",
-    "dna": "06_07_03_03_02_01_23|S01BobotGenesis_2475",
+    "dna": "07_03_04_01_02_03_06|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Whos Cat?"
         },
         {
             "trait_type": "LCD",
-            "value": "Cat Normal"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunrise"
+            "value": "Starlight"
         }
     ]
 }

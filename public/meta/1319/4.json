@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1319.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1319.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1319",
+    "dna": "03_16_11_05_02_02_10|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Soul's Crown"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Error 404"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cube Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Sakura"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3158.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3158.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3158",
+    "dna": "01_09_07_05_01_01_17|S01BobotGenesis",
+    "coreLevel": 3,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fake King"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Baige Tone"
+        }
+    ]
+}

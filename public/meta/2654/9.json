@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2654.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2654.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2654",
+    "dna": "01_17_15_04_02_03_22|S01BobotGenesis",
+    "coreLevel": 9,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "KOTF Crown"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Aloof Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Teal Service"
+        }
+    ]
+}

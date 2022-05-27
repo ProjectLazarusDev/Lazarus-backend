@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_202.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_202.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0202",
+    "dna": "01_02_22_04_02_05_19|S01BobotGenesis",
+    "coreLevel": 10,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sir Bobot Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Lady Red"
+        }
+    ]
+}

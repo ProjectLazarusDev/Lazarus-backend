@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_42.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_42.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_42.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_42.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0042",
-    "dna": "01_09_12_02_02_04_01|S01BobotGenesis_2625",
+    "dna": "03_22_13_04_02_04_14|S01BobotGenesis",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "SmolBear"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Glass"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Hue 9"
         }
     ]
 }

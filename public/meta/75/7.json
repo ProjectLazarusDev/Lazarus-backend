@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_75.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_75.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_75.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_75.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0075",
-    "dna": "01_25_09_01_04_03_10|S01BobotGenesis_2325",
+    "dna": "03_01_05_05_02_04_22|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "GorillaDAO"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Out Of Service"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sakura"
+            "value": "Teal Service"
         }
     ]
 }

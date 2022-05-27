@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_31.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_31.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_31.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_31.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0031",
-    "dna": "02_22_15_05_02_03_24|S01BobotGenesis_2100",
+    "dna": "07_01_14_01_01_05_20|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cold Stone"
+            "value": "Secret Service"
         }
     ]
 }

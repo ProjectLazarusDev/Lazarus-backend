@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2727.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2727.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2727",
+    "dna": "04_02_24_04_04_05_12|S01BobotGenesis",
+    "coreLevel": 9,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sir Bobot Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Cry Baby"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Ice Cold"
+        }
+    ]
+}

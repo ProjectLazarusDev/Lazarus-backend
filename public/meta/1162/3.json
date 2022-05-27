@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1162.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1162.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1162",
+    "dna": "06_05_22_02_01_05_14|S01BobotGenesis",
+    "coreLevel": 3,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Deers"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Hue 9"
+        }
+    ]
+}

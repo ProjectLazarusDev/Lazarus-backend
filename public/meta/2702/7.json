@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2702.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2702.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2702",
+    "dna": "05_07_07_02_01_01_05|S01BobotGenesis",
+    "coreLevel": 7,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "What?!"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Roses"
+        }
+    ]
+}

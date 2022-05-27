@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1667.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1667.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1667",
+    "dna": "05_02_10_03_02_01_14|S01BobotGenesis",
+    "coreLevel": 7,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sir Bobot Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Game Over"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Hue 9"
+        }
+    ]
+}

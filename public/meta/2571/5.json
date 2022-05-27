@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2571.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2571.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2571",
+    "dna": "08_10_01_04_01_05_08|S01BobotGenesis",
+    "coreLevel": 5,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Cat Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Octopus"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Happy Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Bumblebee"
+        }
+    ]
+}

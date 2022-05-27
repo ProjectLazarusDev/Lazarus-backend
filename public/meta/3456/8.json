@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3456.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3456.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3456",
+    "dna": "01_13_23_05_02_05_16|S01BobotGenesis",
+    "coreLevel": 8,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Flame Hot"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2548.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2548.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2548",
+    "dna": "03_26_06_01_01_02_20|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Birds and Blades"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Angry Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cube Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3513.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3513.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3513",
+    "dna": "01_15_15_06_01_05_06|S01BobotGenesis",
+    "coreLevel": 10,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "The Doctor's Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Aloof Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Robotics"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Starlight"
+        }
+    ]
+}

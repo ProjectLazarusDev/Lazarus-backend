@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1129.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1129.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1129",
+    "dna": "01_02_14_06_02_03_04|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sir Bobot Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Agony  Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Robotics"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Ocean"
+        }
+    ]
+}

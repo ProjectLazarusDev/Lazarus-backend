@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3769.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3769.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3769",
+    "dna": "04_05_10_02_03_03_20|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Deers"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Game Over"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

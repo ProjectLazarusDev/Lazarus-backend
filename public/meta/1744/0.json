@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1744.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1744.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1744",
+    "dna": "02_16_20_01_04_04_20|S01BobotGenesis",
+    "coreLevel": 0,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Rugby Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Soul's Crown"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Diamonds"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

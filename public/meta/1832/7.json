@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1832.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1832.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1832",
+    "dna": "01_05_17_04_03_01_09|S01BobotGenesis",
+    "coreLevel": 7,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Deers"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Fire Red"
+        }
+    ]
+}

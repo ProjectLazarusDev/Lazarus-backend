@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2791.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2791.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2791",
+    "dna": "02_07_06_01_01_01_01|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Rugby Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "What?!"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Angry Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cherry Blossoms"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_951.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_951.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0951",
+    "dna": "04_28_25_01_02_05_14|S01BobotGenesis",
+    "coreLevel": 5,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sneaky Beanz"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Hue 9"
+        }
+    ]
+}

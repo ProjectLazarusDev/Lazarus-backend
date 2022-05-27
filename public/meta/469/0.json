@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_469.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_469.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0469",
+    "dna": "06_14_07_01_04_03_24|S01BobotGenesis",
+    "coreLevel": 0,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Ribbon"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cold Stone"
+        }
+    ]
+}

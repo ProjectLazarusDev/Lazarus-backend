@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3904.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3904.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3904",
+    "dna": "07_16_25_01_03_03_03|S01BobotGenesis",
+    "coreLevel": 0,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Egg Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Soul's Crown"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Valentines"
+        }
+    ]
+}

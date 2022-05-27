@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2223.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2223.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2223",
+    "dna": "08_11_05_06_02_01_20|S01BobotGenesis",
+    "coreLevel": 4,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Cat Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Octopus"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Angry Vector"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Robotics"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

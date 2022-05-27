@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_856.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_856.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0856",
+    "dna": "05_01_12_01_04_01_09|S01BobotGenesis",
+    "coreLevel": 8,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Moon Traffic Cone"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Heart Glass"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Fire Red"
+        }
+    ]
+}

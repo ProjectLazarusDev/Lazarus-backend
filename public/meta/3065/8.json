@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3065.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3065.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3065",
+    "dna": "05_01_25_02_01_05_09|S01BobotGenesis",
+    "coreLevel": 8,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Moon Traffic Cone"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Fire Red"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3389.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3389.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3389",
+    "dna": "08_01_01_05_01_03_05|S01BobotGenesis",
+    "coreLevel": 3,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Cat Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Moon Traffic Cone"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Happy Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Roses"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2965.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2965.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2965",
+    "dna": "05_13_22_05_02_02_20|S01BobotGenesis",
+    "coreLevel": 7,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cube Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

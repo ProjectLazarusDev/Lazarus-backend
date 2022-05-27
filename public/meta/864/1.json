@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_864.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_864.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0864",
+    "dna": "01_01_14_01_04_02_06|S01BobotGenesis",
+    "coreLevel": 1,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "TV Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Moon Traffic Cone"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Agony  Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cube Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Starlight"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_25.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_25.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_25.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_25.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0025",
-    "dna": "06_11_04_02_01_02_07|S01BobotGenesis_2550",
+    "dna": "06_01_05_04_01_04_08|S01BobotGenesis",
     "coreLevel": 9,
     "attributes": [
         {
@@ -13,15 +13,15 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Blue Octopus"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Bumblebee"
         }
     ]
 }

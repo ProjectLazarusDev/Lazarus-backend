@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1145.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1145.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1145",
+    "dna": "06_24_22_02_04_01_01|S01BobotGenesis",
+    "coreLevel": 0,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "MetaMythics"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shark Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cherry Blossoms"
+        }
+    ]
+}

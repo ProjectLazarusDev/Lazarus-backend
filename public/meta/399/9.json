@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_399.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_399.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #0399",
+    "dna": "02_15_23_02_03_05_14|S01BobotGenesis",
+    "coreLevel": 9,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Rugby Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "The Doctor's Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Hue 9"
+        }
+    ]
+}

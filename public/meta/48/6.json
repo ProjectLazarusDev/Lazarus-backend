@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_48.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_48.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_48.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_48.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0048",
-    "dna": "03_07_16_01_01_05_03|S01BobotGenesis_2175",
+    "dna": "05_09_14_01_01_03_10|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Baby Girl"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Sakura"
         }
     ]
 }

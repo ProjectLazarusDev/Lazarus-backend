@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_6.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_6.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_6.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_6.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0006",
-    "dna": "02_02_17_06_01_05_20|S01BobotGenesis_2325",
+    "dna": "06_07_26_03_03_01_09|S01BobotGenesis",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Sir Bobot Hat"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Aloof "
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Fire Red"
         }
     ]
 }

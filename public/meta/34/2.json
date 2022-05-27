@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_34.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_34.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_34.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_34.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0034",
-    "dna": "01_21_07_03_01_01_13|S01BobotGenesis_2425",
+    "dna": "06_07_04_02_03_05_08|S01BobotGenesis",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Stunned"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Bumblebee"
         }
     ]
 }

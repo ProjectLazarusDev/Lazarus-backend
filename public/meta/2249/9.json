@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_2249.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_2249.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #2249",
+    "dna": "03_11_22_01_03_01_20|S01BobotGenesis",
+    "coreLevel": 9,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Blue Octopus"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Annoyed"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

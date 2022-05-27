@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3496.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3496.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3496",
+    "dna": "06_26_25_01_01_02_20|S01BobotGenesis",
+    "coreLevel": 3,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Birds and Blades"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cube Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Secret Service"
+        }
+    ]
+}

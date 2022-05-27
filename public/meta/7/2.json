@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_7.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_7.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_7.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_7.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0007",
-    "dna": "06_26_26_03_03_01_09|S01BobotGenesis_2250",
+    "dna": "02_01_10_02_02_04_02|S01BobotGenesis",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Birds and Blades"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof "
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Fire Red"
+            "value": "Toxic"
         }
     ]
 }

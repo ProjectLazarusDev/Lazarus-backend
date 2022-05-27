@@ -1,15 +1,15 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_4.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_4.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_4.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_4.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0004",
-    "dna": "02_06_13_01_01_02_06|S01BobotGenesis_2250",
+    "dna": "01_06_05_01_02_03_17|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Baige Tone"
         }
     ]
 }

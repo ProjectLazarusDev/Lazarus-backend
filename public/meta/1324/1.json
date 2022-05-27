@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1324.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1324.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1324",
+    "dna": "06_09_25_04_01_04_16|S01BobotGenesis",
+    "coreLevel": 1,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fake King"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Crab Claws"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Flame Hot"
+        }
+    ]
+}

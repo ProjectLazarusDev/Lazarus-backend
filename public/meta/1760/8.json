@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1760.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1760.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1760",
+    "dna": "03_06_14_03_03_01_24|S01BobotGenesis",
+    "coreLevel": 8,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Senses"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Agony  Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cold Stone"
+        }
+    ]
+}

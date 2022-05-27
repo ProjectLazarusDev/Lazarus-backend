@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3047.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3047.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #3047",
+    "dna": "05_09_09_01_02_04_07|S01BobotGenesis",
+    "coreLevel": 2,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fake King"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Out Of Service"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Beach"
+        }
+    ]
+}

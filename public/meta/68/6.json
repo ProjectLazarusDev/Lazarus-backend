@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_68.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_68.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_68.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_68.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0068",
-    "dna": "07_04_04_05_02_04_16|S01BobotGenesis_2100",
+    "dna": "01_08_03_02_02_04_19|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Digi Halo"
+            "value": "Breakfast"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Lady Red"
         }
     ]
 }

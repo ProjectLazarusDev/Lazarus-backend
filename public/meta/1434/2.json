@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1434.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1434.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1434",
+    "dna": "05_19_06_02_02_04_08|S01BobotGenesis",
+    "coreLevel": 2,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Oven Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Smolshark"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Angry Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Bumblebee"
+        }
+    ]
+}

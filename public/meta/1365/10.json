@@ -1,0 +1,39 @@
+{
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1365.png",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1365.mp4",
+    "description": "Welcome to the bobot family",
+    "name": "Bobot #1365",
+    "dna": "02_05_03_06_02_01_18|S01BobotGenesis",
+    "coreLevel": 10,
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Rugby Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Deers"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Cat Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Robotics"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Iron Suit"
+        }
+    ]
+}

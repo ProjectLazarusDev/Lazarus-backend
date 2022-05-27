@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_82.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_82.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_82.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_82.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0082",
-    "dna": "07_23_21_05_03_02_13|S01BobotGenesis_1275",
+    "dna": "05_09_10_02_02_03_01|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Diamond Trance"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Cherry Blossoms"
         }
     ]
 }

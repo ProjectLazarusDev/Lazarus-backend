@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_69.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_69.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_69.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_69.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0069",
-    "dna": "01_01_03_02_02_04_19|S01BobotGenesis_2550",
+    "dna": "03_29_02_02_01_01_09|S01BobotGenesis",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Moon Traffic Cone"
+            "value": "Tori Zero"
         },
         {
             "trait_type": "LCD",
-            "value": "Cat Normal"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Lady Red"
+            "value": "Fire Red"
         }
     ]
 }

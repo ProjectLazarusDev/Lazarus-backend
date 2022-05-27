@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_80.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_80.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_80.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_80.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0080",
-    "dna": "01_07_02_02_02_01_16|S01BobotGenesis_3150",
+    "dna": "02_09_13_01_03_01_13|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Pastels"
         }
     ]
 }

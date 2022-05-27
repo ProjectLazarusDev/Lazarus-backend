@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_3.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_3.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_3.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_3.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0003",
-    "dna": "07_16_23_03_03_04_13|S01BobotGenesis_1950",
+    "dna": "02_10_13_01_01_02_06|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Soul's Crown"
+            "value": "Pink Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Shocked"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Starlight"
         }
     ]
 }

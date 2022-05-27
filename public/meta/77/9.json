@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_77.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_77.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_77.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_77.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0077",
-    "dna": "02_07_24_04_01_05_16|S01BobotGenesis_2700",
+    "dna": "03_29_10_01_02_05_17|S01BobotGenesis",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Tori Zero"
         },
         {
             "trait_type": "LCD",
-            "value": "Cry Baby"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Flame Hot"
+            "value": "Baige Tone"
         }
     ]
 }

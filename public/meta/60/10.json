@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_60.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_60.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_60.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_60.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0060",
-    "dna": "05_28_10_01_01_01_05|S01BobotGenesis_2400",
+    "dna": "06_26_02_01_01_01_01|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Sneaky Beanz"
+            "value": "Birds and Blades"
         },
         {
             "trait_type": "LCD",
-            "value": "Game Over"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Roses"
+            "value": "Cherry Blossoms"
         }
     ]
 }

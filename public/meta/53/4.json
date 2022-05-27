@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_53.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_53.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_53.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_53.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0053",
-    "dna": "01_10_06_01_01_01_18|S01BobotGenesis_2700",
+    "dna": "02_04_14_03_01_01_18|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Pink Octopus"
+            "value": "Digi Halo"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Normal"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",

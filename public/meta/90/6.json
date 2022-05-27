@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_90.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_90.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_90.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_90.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0090",
-    "dna": "03_11_16_01_02_05_11|S01BobotGenesis_2400",
+    "dna": "06_06_17_03_02_05_19|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Blue Octopus"
+            "value": "Senses"
         },
         {
             "trait_type": "LCD",
-            "value": "Baby Girl"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Lady SHadow"
+            "value": "Lady Red"
         }
     ]
 }

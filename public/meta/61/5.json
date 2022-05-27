@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_61.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_61.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_61.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_61.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0061",
-    "dna": "06_09_02_01_01_01_01|S01BobotGenesis_3150",
+    "dna": "03_16_22_02_01_03_19|S01BobotGenesis",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Lady Red"
         }
     ]
 }

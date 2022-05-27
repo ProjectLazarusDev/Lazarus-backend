@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_81.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_81.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_81.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_81.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0081",
-    "dna": "02_07_13_01_03_01_13|S01BobotGenesis_2700",
+    "dna": "07_03_21_05_03_02_13|S01BobotGenesis",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Whos Cat?"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Diamond Trance"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -29,7 +29,7 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",

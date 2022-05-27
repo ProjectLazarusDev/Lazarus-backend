@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_52.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_52.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_52.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_52.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0052",
-    "dna": "02_22_11_03_03_05_22|S01BobotGenesis_2100",
+    "dna": "01_09_06_01_01_01_18|S01BobotGenesis",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Error 404"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Iron Suit"
         }
     ]
 }

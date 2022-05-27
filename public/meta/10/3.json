@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_10.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_10.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_10.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_10.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0010",
-    "dna": "03_05_04_01_04_02_14|S01BobotGenesis_2400",
+    "dna": "01_07_24_02_01_05_04|S01BobotGenesis",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Ocean"
         }
     ]
 }

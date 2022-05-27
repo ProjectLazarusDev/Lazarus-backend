@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_88.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_88.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_88.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_88.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0088",
-    "dna": "06_23_13_03_01_04_14|S01BobotGenesis_2400",
+    "dna": "05_08_06_03_03_05_16|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Breakfast"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Flame Hot"
         }
     ]
 }

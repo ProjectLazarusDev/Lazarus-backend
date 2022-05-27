@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_92.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_92.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_92.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_92.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0092",
-    "dna": "02_18_15_04_02_02_15|S01BobotGenesis_1825",
+    "dna": "06_08_03_03_02_01_23|S01BobotGenesis",
     "coreLevel": 5,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Breakfast"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof Pixel"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sunset"
+            "value": "Sunrise"
         }
     ]
 }

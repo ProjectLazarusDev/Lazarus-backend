@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_94.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_94.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_94.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_94.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0094",
-    "dna": "07_01_04_01_02_03_06|S01BobotGenesis_2700",
+    "dna": "04_15_02_03_02_01_18|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Moon Traffic Cone"
+            "value": "The Doctor's Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Iron Suit"
         }
     ]
 }

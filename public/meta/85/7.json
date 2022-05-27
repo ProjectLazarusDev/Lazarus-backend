@@ -1,15 +1,15 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_85.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_85.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_85.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_85.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0085",
-    "dna": "04_15_17_02_02_01_04|S01BobotGenesis_2275",
+    "dna": "01_15_14_02_02_01_04|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",

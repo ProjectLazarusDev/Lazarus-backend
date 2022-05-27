@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_95.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_95.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_95.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_95.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0095",
-    "dna": "04_28_02_03_02_01_18|S01BobotGenesis_2250",
+    "dna": "03_24_04_01_03_03_10|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Sneaky Beanz"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Iron Suit"
+            "value": "Sakura"
         }
     ]
 }

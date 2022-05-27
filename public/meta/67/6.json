@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_67.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_67.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_67.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_67.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0067",
-    "dna": "06_05_14_05_02_05_20|S01BobotGenesis_2700",
+    "dna": "07_02_04_05_02_04_16|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Egg Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "Sir Bobot Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Flame Hot"
         }
     ]
 }

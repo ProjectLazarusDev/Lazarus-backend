@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_58.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_58.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_58.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_58.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0058",
-    "dna": "06_09_04_06_02_03_10|S01BobotGenesis_2775",
+    "dna": "02_08_02_05_02_05_07|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "Breakfast"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sakura"
+            "value": "Beach"
         }
     ]
 }

@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_18.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_18.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_18.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_18.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0018",
-    "dna": "08_08_03_01_02_01_10|S01BobotGenesis_2325",
+    "dna": "01_29_04_02_03_01_13|S01BobotGenesis",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Cat Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Breakfast"
+            "value": "Tori Zero"
         },
         {
             "trait_type": "LCD",
-            "value": "Cat Normal"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sakura"
+            "value": "Pastels"
         }
     ]
 }

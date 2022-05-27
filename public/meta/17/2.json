@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_17.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_17.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_17.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_17.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0017",
-    "dna": "02_21_17_04_04_04_01|S01BobotGenesis_1975",
+    "dna": "08_26_03_01_02_01_10|S01BobotGenesis",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Cat Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Elefrens"
+            "value": "Birds and Blades"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Sakura"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_27.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_27.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_27.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_27.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0027",
-    "dna": "01_17_22_02_02_04_22|S01BobotGenesis_2625",
+    "dna": "06_11_25_05_02_03_02|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "KOTF Crown"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Annoyed"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Toxic"
         }
     ]
 }

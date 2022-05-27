@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_40.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_40.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_40.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_40.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0040",
-    "dna": "02_13_02_03_03_05_13|S01BobotGenesis_2550",
+    "dna": "05_07_01_01_01_01_04|S01BobotGenesis",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Ocean"
         }
     ]
 }

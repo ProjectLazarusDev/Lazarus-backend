@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_43.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_43.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_43.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_43.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0043",
-    "dna": "03_25_13_04_02_04_14|S01BobotGenesis_2400",
+    "dna": "06_02_02_02_01_01_06|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "GorillaDAO"
+            "value": "Sir Bobot Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Starlight"
         }
     ]
 }

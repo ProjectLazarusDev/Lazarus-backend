@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_14.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_14.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_14.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_14.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0014",
-    "dna": "06_29_01_03_01_02_03|S01BobotGenesis_1950",
+    "dna": "06_15_10_01_04_01_17|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
@@ -13,27 +13,27 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Tori Zero"
+            "value": "The Doctor's Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Shark Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Valentines"
+            "value": "Baige Tone"
         }
     ]
 }

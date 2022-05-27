@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_87.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_87.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_87.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_87.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0087",
-    "dna": "02_18_25_01_02_01_09|S01BobotGenesis_2700",
+    "dna": "06_09_13_03_01_04_14|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Smulips tulips"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Sparkly Bobot"
+            "value": "Heart Solid"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Fire Red"
+            "value": "Hue 9"
         }
     ]
 }

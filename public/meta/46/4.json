@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_46.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_46.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_46.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_46.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0046",
-    "dna": "02_25_22_04_02_03_02|S01BobotGenesis_2550",
+    "dna": "02_07_22_02_02_01_24|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
@@ -13,7 +13,7 @@
         },
         {
             "trait_type": "Hat",
-            "value": "GorillaDAO"
+            "value": "What?!"
         },
         {
             "trait_type": "LCD",
@@ -21,7 +21,7 @@
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Toxic"
+            "value": "Cold Stone"
         }
     ]
 }

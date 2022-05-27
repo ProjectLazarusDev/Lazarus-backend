@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_47.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_47.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_47.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_47.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0047",
-    "dna": "02_28_22_02_02_01_24|S01BobotGenesis_2550",
+    "dna": "03_11_16_01_01_05_03|S01BobotGenesis",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Sneaky Beanz"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Annoyed"
+            "value": "Baby Girl"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cold Stone"
+            "value": "Valentines"
         }
     ]
 }

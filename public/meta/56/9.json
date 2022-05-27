@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_56.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_56.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_56.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_56.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0056",
-    "dna": "06_13_07_05_01_05_06|S01BobotGenesis_2550",
+    "dna": "05_15_11_01_01_01_11|S01BobotGenesis",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "The Doctor's Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Stunned"
+            "value": "Error 404"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Lady SHadow"
         }
     ]
 }

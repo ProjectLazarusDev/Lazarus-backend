@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_79.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_79.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_79.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_79.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0079",
-    "dna": "04_05_04_04_02_04_05|S01BobotGenesis_2400",
+    "dna": "01_14_02_02_02_01_16|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "Pink Ribbon"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Roses"
+            "value": "Flame Hot"
         }
     ]
 }

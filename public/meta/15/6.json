@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_15.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_15.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_15.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_15.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0015",
-    "dna": "06_07_10_01_04_01_17|S01BobotGenesis_2550",
+    "dna": "03_11_03_01_01_03_19|S01BobotGenesis",
     "coreLevel": 6,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Game Over"
+            "value": "Cat Normal"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Lady Red"
         }
     ]
 }

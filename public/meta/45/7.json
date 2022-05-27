@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_45.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_45.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_45.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_45.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0045",
-    "dna": "01_05_17_04_02_05_05|S01BobotGenesis_2550",
+    "dna": "02_10_22_04_02_03_02|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "Pink Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Roses"
+            "value": "Toxic"
         }
     ]
 }

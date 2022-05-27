@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_1.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_1.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0001",
-    "dna": "02_27_01_06_02_01_25|S01BobotsGenesis_0000",
+    "dna": "05_23_06_04_03_03_20|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Kaiju Kingz"
+            "value": "MetaMythics"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Normal"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "The Kingz's "
+            "value": "Secret Service"
         }
     ]
 }

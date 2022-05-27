@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_19.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_19.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_19.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_19.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0019",
-    "dna": "01_10_04_02_03_01_13|S01BobotGenesis_2700",
+    "dna": "01_26_06_01_02_03_21|S01BobotGenesis",
     "coreLevel": 7,
     "attributes": [
         {
@@ -13,27 +13,27 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Pink Octopus"
+            "value": "Birds and Blades"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Angry Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Pastels"
+            "value": "Pink Suite"
         }
     ]
 }

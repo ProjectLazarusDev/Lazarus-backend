@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_33.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_33.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_33.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_33.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0033",
-    "dna": "05_06_20_05_02_03_20|S01BobotGenesis_2100",
+    "dna": "01_16_07_03_01_01_13|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Soul's Crown"
         },
         {
             "trait_type": "LCD",
-            "value": "Diamonds"
+            "value": "Stunned"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Pastels"
         }
     ]
 }

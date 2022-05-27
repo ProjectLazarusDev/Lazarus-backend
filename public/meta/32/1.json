@@ -1,35 +1,35 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_32.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_32.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_32.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_32.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0032",
-    "dna": "07_11_14_01_01_05_20|S01BobotGenesis_2700",
+    "dna": "05_02_20_05_02_03_20|S01BobotGenesis",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Blue Octopus"
+            "value": "Sir Bobot Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Diamonds"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",

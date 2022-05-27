@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_78.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_78.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_78.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_78.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0078",
-    "dna": "03_05_10_01_02_05_17|S01BobotGenesis_2550",
+    "dna": "04_13_04_04_02_04_05|S01BobotGenesis",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Deers"
+            "value": "Cap"
         },
         {
             "trait_type": "LCD",
-            "value": "Game Over"
+            "value": "Happy Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Roses"
         }
     ]
 }

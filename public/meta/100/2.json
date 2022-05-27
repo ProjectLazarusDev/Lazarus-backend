@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_100.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_100.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_100.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_100.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0100",
-    "dna": "07_23_12_03_02_01_14|S01BobotGenesis_2025",
+    "dna": "02_05_20_01_03_04_09|S01BobotGenesis",
     "coreLevel": 2,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Egg Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Glass"
+            "value": "Diamonds"
         },
         {
             "trait_type": "Arm",
-            "value": "Wings"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Fire Red"
         }
     ]
 }

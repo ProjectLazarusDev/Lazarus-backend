@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_76.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_76.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_76.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_76.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0076",
-    "dna": "03_24_05_05_02_04_22|S01BobotGenesis_2025",
+    "dna": "02_03_24_04_01_05_16|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Whos Cat?"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Vector"
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Box Legs"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Flame Hot"
         }
     ]
 }

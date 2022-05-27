@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_38.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_38.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_38.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_38.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0038",
-    "dna": "06_07_26_01_02_01_14|S01BobotGenesis_3000",
+    "dna": "01_09_24_06_03_03_21|S01BobotGenesis",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "Fake King"
         },
         {
             "trait_type": "LCD",
-            "value": "Aloof "
+            "value": "Cry Baby"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Robotics"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Pink Suite"
         }
     ]
 }

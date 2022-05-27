@@ -1,31 +1,31 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_26.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_26.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_26.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_26.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0026",
-    "dna": "06_11_05_04_01_04_08|S01BobotGenesis_2400",
+    "dna": "01_22_22_02_02_04_22|S01BobotGenesis",
     "coreLevel": 1,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Blue Octopus"
+            "value": "SmolBear"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Vector"
+            "value": "Annoyed"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Bumblebee"
+            "value": "Teal Service"
         }
     ]
 }

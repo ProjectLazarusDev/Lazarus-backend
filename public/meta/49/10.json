@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_49.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_49.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_49.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_49.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0049",
-    "dna": "05_03_14_01_01_03_10|S01BobotGenesis_2700",
+    "dna": "04_13_25_02_01_05_04|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Whos Cat?"
+            "value": "Cap"
         },
         {
             "trait_type": "LCD",
-            "value": "Agony  Pixel"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Sakura"
+            "value": "Ocean"
         }
     ]
 }

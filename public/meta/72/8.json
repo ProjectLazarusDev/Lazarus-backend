@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_72.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_72.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_72.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_72.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0072",
-    "dna": "04_11_13_01_03_03_20|S01BobotGenesis_2550",
+    "dna": "02_05_05_01_02_01_20|S01BobotGenesis",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Industrial Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Blue Octopus"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Heart Solid"
+            "value": "Angry Vector"
         },
         {
             "trait_type": "Arm",
@@ -25,11 +25,11 @@
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",

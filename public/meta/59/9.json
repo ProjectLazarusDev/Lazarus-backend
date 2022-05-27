@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_59.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_59.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_59.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_59.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0059",
-    "dna": "02_09_02_05_02_05_07|S01BobotGenesis_2400",
+    "dna": "05_11_10_01_01_01_05|S01BobotGenesis",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "Blue Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Game Over"
         },
         {
             "trait_type": "Arm",
-            "value": "Sleek"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Beach"
+            "value": "Roses"
         }
     ]
 }

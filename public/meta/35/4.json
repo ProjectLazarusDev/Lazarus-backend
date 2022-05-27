@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_35.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_35.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_35.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_35.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0035",
-    "dna": "06_01_04_02_03_05_08|S01BobotGenesis_2550",
+    "dna": "01_10_18_03_02_02_04|S01BobotGenesis",
     "coreLevel": 4,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Moon Traffic Cone"
+            "value": "Pink Octopus"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Glasses Trance"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Wings"
         },
         {
             "trait_type": "Body",
-            "value": "Chipset Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Bumblebee"
+            "value": "Ocean"
         }
     ]
 }

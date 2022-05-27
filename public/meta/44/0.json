@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_44.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_44.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_44.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_44.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0044",
-    "dna": "06_25_02_02_01_01_06|S01BobotGenesis_2850",
+    "dna": "01_05_17_04_02_05_05|S01BobotGenesis",
     "coreLevel": 0,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Battery Boy"
+            "value": "TV Head"
         },
         {
             "trait_type": "Hat",
-            "value": "GorillaDAO"
+            "value": "Deers"
         },
         {
             "trait_type": "LCD",
-            "value": "Stress Pixel"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Hover Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Starlight"
+            "value": "Roses"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_5.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_5.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_5.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_5.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0005",
-    "dna": "01_09_05_01_02_03_17|S01BobotGenesis_2850",
+    "dna": "02_01_17_06_01_05_20|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Rugby Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Fake King"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Vector"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Robotics"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Round Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cheaped Out"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Secret Service"
         }
     ]
 }

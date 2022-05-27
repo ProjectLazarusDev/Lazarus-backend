@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/image_83.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_83.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmY5YWQrK7STn1UYxXzRwZ3C8bKfvvMAGcvUStDbAY13SZ/video_83.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_83.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0083",
-    "dna": "05_22_10_02_02_03_01|S01BobotGenesis_2550",
+    "dna": "03_14_14_01_02_01_04|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "VR Head"
         },
         {
             "trait_type": "Hat",
-            "value": "SmolBear"
+            "value": "Pink Ribbon"
         },
         {
             "trait_type": "LCD",
-            "value": "Game Over"
+            "value": "Agony  Pixel"
         },
         {
             "trait_type": "Arm",
-            "value": "Bulky"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Hover Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Cherry Blossoms"
+            "value": "Ocean"
         }
     ]
 }
