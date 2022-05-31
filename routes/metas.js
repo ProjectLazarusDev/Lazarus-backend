@@ -3,10 +3,10 @@ const router = express.Router()
 const Meta = require('../models/meta')
 const syncReadFile = require('../utils/fileReader')
 
-// All Meta Route
+// if no id or fileid specified will return unrevealed data
 router.get('/', (req, res) => {
     // parse the data as json
-    const data = JSON.parse(syncReadFile('./public/meta/1/0.json'));
+    const data = JSON.parse(syncReadFile('./public/meta/unrevealed.json'));
     res.send(data);
 })
 
