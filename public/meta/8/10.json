@@ -1,10 +1,10 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_8.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_8.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_8.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_8.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0008",
-    "dna": "01_04_22_03_02_03_22|S01BobotGenesis",
+    "dna": "01_21_02_03_04_02_18|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
@@ -13,11 +13,11 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Digi Halo"
+            "value": "Elefrens"
         },
         {
             "trait_type": "LCD",
-            "value": "Annoyed"
+            "value": "Stress Pixel"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Shark Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Cube Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Teal Service"
+            "value": "Iron Suit"
         }
     ]
 }

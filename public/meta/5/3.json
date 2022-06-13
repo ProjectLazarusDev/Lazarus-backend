@@ -1,35 +1,35 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_5.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_5.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_5.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_5.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0005",
-    "dna": "02_01_17_06_01_05_20|S01BobotGenesis",
+    "dna": "06_14_01_02_02_03_20|S01BobotGenesis",
     "coreLevel": 3,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Rugby Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Moon Traffic Cone"
+            "value": "Pink Ribbon"
         },
         {
             "trait_type": "LCD",
-            "value": "Glasses"
+            "value": "Happy Normal"
         },
         {
             "trait_type": "Arm",
-            "value": "Robotics"
+            "value": "Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Square Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",

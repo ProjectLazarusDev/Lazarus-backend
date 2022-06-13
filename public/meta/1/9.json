@@ -1,27 +1,27 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_1.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_1.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_1.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_1.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0001",
-    "dna": "05_23_06_04_03_03_20|S01BobotGenesis",
+    "dna": "04_01_25_01_03_03_10|S01BobotGenesis",
     "coreLevel": 9,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "Oven Head"
+            "value": "Industrial Head"
         },
         {
             "trait_type": "Hat",
-            "value": "MetaMythics"
+            "value": "Moon Traffic Cone"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Normal"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
-            "value": "Crab Claws"
+            "value": "Tube"
         },
         {
             "trait_type": "Body",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Color Palette",
-            "value": "Secret Service"
+            "value": "Sakura"
         }
     ]
 }

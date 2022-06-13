@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_9.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_9.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_9.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_9.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0009",
-    "dna": "03_13_04_01_04_02_14|S01BobotGenesis",
+    "dna": "05_14_17_05_03_04_10|S01BobotGenesis",
     "coreLevel": 8,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "VR Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "Cap"
+            "value": "Pink Ribbon"
         },
         {
             "trait_type": "LCD",
-            "value": "Happy Pixel"
+            "value": "Glasses"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Sleek"
         },
         {
             "trait_type": "Body",
-            "value": "Shark Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cube Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Hue 9"
+            "value": "Sakura"
         }
     ]
 }

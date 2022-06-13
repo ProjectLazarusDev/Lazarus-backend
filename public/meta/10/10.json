@@ -1,23 +1,23 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_10.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_10.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_10.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_10.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0010",
-    "dna": "01_07_24_02_01_05_04|S01BobotGenesis",
+    "dna": "05_15_25_02_03_03_10|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Oven Head"
         },
         {
             "trait_type": "Hat",
-            "value": "What?!"
+            "value": "The Doctor's Hat"
         },
         {
             "trait_type": "LCD",
-            "value": "Cry Baby"
+            "value": "Sparkly Bobot"
         },
         {
             "trait_type": "Arm",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Body",
-            "value": "Round Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Cheaped Out"
+            "value": "Flat Leg"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Ocean"
+            "value": "Sakura"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "image_data": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/image_4.png",
+    "image_data": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_4.png",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmWDTykhFLCcfwEvWWnU2ccm8d6FTGBwbJwzRitumkfGpA/video_4.mp4",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_4.gif",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0004",
-    "dna": "01_06_05_01_02_03_17|S01BobotGenesis",
+    "dna": "06_13_11_04_03_04_01|S01BobotGenesis",
     "coreLevel": 10,
     "attributes": [
         {
             "trait_type": "Head",
-            "value": "TV Head"
+            "value": "Battery Boy"
         },
         {
             "trait_type": "Hat",
-            "value": "Senses"
+            "value": "Cap"
         },
         {
             "trait_type": "LCD",
-            "value": "Angry Vector"
+            "value": "Error 404"
         },
         {
             "trait_type": "Arm",
-            "value": "Tube"
+            "value": "Crab Claws"
         },
         {
             "trait_type": "Body",
-            "value": "Square Armor"
+            "value": "Chipset Armor"
         },
         {
             "trait_type": "Leg",
-            "value": "Flat Leg"
+            "value": "Box Legs"
         },
         {
             "trait_type": "Color Palette",
-            "value": "Baige Tone"
+            "value": "Cherry Blossoms"
         }
     ]
 }
