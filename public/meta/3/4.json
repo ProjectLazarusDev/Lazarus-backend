@@ -1,7 +1,8 @@
 {
-    "image": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_3.png",
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_3.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_3.gif",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_3.gif",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZNFw1moQEYmXKhoLeQG5ZF5uST1bRKPzQvjmPZwVnCeK/video_3.mp4",
     "description": "Welcome to the bobot family",
     "name": "Bobot #0003",
     "dna": "01_20_20_01_02_01_21|S01BobotGenesis",
