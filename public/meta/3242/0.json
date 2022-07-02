@@ -1,0 +1,43 @@
+{
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_3242.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_3242.gif",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_3242.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
+    "name": "Bobot #3242",
+    "dna": "06_05_18_01_01_03_01|S01BobotGenesis",
+    "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "0"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Battery Boy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Deers"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Glasses Trance"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Tube"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Flat Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cherry Blossoms"
+        }
+    ]
+}

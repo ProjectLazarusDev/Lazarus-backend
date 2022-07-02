@@ -1,0 +1,43 @@
+{
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_3392.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_3392.gif",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_3392.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
+    "name": "Bobot #3392",
+    "dna": "04_14_01_03_03_05_01|S01BobotGenesis",
+    "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "4"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Industrial Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Pink Ribbon"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Happy Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chipset Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Cheaped Out"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Cherry Blossoms"
+        }
+    ]
+}

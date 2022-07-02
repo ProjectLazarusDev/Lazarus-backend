@@ -1,0 +1,43 @@
+{
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_1039.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_1039.gif",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_1039.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
+    "name": "Bobot #1039",
+    "dna": "02_01_18_02_02_01_11|S01BobotGenesis",
+    "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "7"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Rugby Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Moon Traffic Cone"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Glasses Trance"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Bulky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Square Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Lady SHadow"
+        }
+    ]
+}

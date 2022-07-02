@@ -1,0 +1,43 @@
+{
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_2845.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_2845.gif",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_2845.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
+    "name": "Bobot #2845",
+    "dna": "03_25_02_03_01_04_06|S01BobotGenesis",
+    "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "8"
+        },
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "GorillaDAO"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Stress Pixel"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Box Legs"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Starlight"
+        }
+    ]
+}

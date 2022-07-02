@@ -1,0 +1,43 @@
+{
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_96.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_96.gif",
+    "external_url": "https://bobots.io/",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_96.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
+    "name": "Bobot #0096",
+    "dna": "03_15_25_05_01_01_14|S01BobotGenesis",
+    "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "3"
+        },
+        {
+            "trait_type": "Head",
+            "value": "VR Head"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "The Doctor's Hat"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "Sparkly Bobot"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Sleek"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Round Armor"
+        },
+        {
+            "trait_type": "Leg",
+            "value": "Hover Leg"
+        },
+        {
+            "trait_type": "Color Palette",
+            "value": "Hue 9"
+        }
+    ]
+}

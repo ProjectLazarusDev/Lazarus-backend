@@ -1,13 +1,16 @@
 {
-    "static_image": "https://bobots.mypinata.cloud/ipfs/QmbZoXekEpR7FfGkgj6oyyzPj6sMFBnTvMWq9AZJU9eHN4/static_1.png",
-    "image": "https://bobots.mypinata.cloud/ipfs/QmZsMBaisjS7A8s6ygFsoipfR9woBu5EvJYw5cdG3wQFGy/image_1.gif",
+    "static_image": "https://bobots.mypinata.cloud/ipfs/QmdkHDUAvaKJzytfiZkwkAeFevyF1danTjAr2KyqwQvmLn/static_1.png",
+    "image": "https://bobots.mypinata.cloud/ipfs/bafybeie7mg44f6jhwm7tx2elhmddi4uvrh3cbt5uemhy2e2drk5li4gubu/image_1.gif",
     "external_url": "https://bobots.io/",
-    "animation_url": "https://bobots.mypinata.cloud/ipfs/QmZNFw1moQEYmXKhoLeQG5ZF5uST1bRKPzQvjmPZwVnCeK/video_1.mp4",
-    "description": "Welcome to the bobot family",
+    "animation_url": "https://bobots.mypinata.cloud/ipfs/bafybeidprpwbstqmn3byvlrzw4mm6hx6rbdqklx5ewrm45k7t3cka3xzyy/video_1.mp4",
+    "description": "The first bobots crew that launched during Nexus megaship's first flight. Say beep boop to it if you see one hanging around the hub!",
     "name": "Bobot #0001",
     "dna": "04_01_25_01_03_03_10|S01BobotGenesis",
-    "coreLevel": 7,
     "attributes": [
+        {
+            "trait_type": "Core Level",
+            "value": "7"
+        },
         {
             "trait_type": "Head",
             "value": "Industrial Head"
