@@ -10,6 +10,7 @@ const cors = require('cors')
 
 const indexRouter = require('./routes/index')
 const metaRouter = require('./routes/metas')
+const genesisRouter = require('./routes/genesis')
 
 app.set('view engine', 'ejs')
 app.set('views', __dirname + '/views')
@@ -28,5 +29,6 @@ db.once('open', () => console.log('Connected to Mongoose'))
 
 app.use('/', indexRouter);
 app.use('/metas', metaRouter);
+app.use('/genesis', genesisRouter);
 
 app.listen(process.env.PORT || 3001)
