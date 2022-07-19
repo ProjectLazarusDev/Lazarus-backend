@@ -27,10 +27,10 @@ router.get('/:id', async (req, res) => {
         const level = ethers.BigNumber.from(bobotLevelResponse?._hex).toNumber();
 
         const genesisData = {
-            dynamic_attributes: {
+            dynamic_attributes: [{
                 trait_type: 'Core Level',
                 value: level
-            },  
+            }],
             is_staked: isStaked
         };
 
