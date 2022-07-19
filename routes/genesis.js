@@ -28,7 +28,7 @@ router.get('/:id', async (req, res) => {
 
         const genesisData = {
             dynamic_attributes: {
-                trait_type: 'level',
+                trait_type: 'Core Level',
                 value: level
             },  
             is_staked: isStaked
