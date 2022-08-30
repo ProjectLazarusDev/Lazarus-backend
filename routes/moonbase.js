@@ -13,7 +13,13 @@ router.get('/', async (req, res) => {
 // get data based on metamask address as id
 router.get('/:id', async (req, res) => {
     const moonbase = await MoonBase.find({ metamaskAddress: `${req.params.id}` })
-    res.send(moonbase)
+    
+    const result = {
+        metamaskAddress: moonbase?.[0]?.metamaskAddress,
+        data: moonbase?.[0]?.data
+    }
+    
+    res.send(result)
 })
 
 // create if data doesn't exist, and update if it does
