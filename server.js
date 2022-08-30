@@ -21,6 +21,7 @@ app.use(cors())
 app.use(expressLayouts)
 app.use(express.static('public'))
 app.use(bodyParser.urlencoded({ limit: '10mb', extended: false }))
+app.use(express.json())
 
 const mongoose = require('mongoose')
 const { urlencoded } = require('body-parser')
