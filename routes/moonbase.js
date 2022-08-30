@@ -20,15 +20,25 @@ router.get('/:id', async (req, res) => {
 router.put('/', async (req, res) => {
     const resJSON = req.body;
 
-    const updateRes = await MoonBase.updateOne(
-        { metamaskAddress: `${req.params.id}` },
-        { data: req.body.objects }
+    // try update first
+    const updateRes = MoonBase.updateOne(
+        { metamaskAddress: resJSON.metamaskAddress },
+        { data: resJSON.data },
+        function (err, docs) {
+            if (err) {
+                res.send(err)
+            }
+            else {
+                res.send(docs)
+            }
+        }
     )
 
+    // create if is first time saving
     if (updateRes.matchedCount === 0) {
         const moonbase = new MoonBase({
-            metamaskAddress: resJSON.address,
-            data: resJSON.objects
+            metamaskAddress: resJSON.metamaskAddress,
+            data: resJSON.data
         })
 
         try {
@@ -37,7 +47,7 @@ router.put('/', async (req, res) => {
         } catch {
             res.render(`${prefix}/new`, {
                 moonbase: moonbase,
-                errorMessage: `Error creating MoonBase from ${req.body.name}`
+                errorMessage: `Error creating MoonBase from ${resJson}`
             })
         }
     }
