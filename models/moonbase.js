@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const metaSchema = new mongoose.Schema({
-    metamaskId: {
+    metamaskAddress: {
         type: String,
         required: true
     },
