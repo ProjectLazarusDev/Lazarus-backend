@@ -17,7 +17,7 @@ router.get('/:id', async (req, res) => {
 })
 
 // create if data doesn't exist, and update if it does
-router.post('/', async (req, res) => {
+router.put('/', async (req, res) => {
     const resJSON = req.body;
 
     const updateRes = await MoonBase.updateOne(
