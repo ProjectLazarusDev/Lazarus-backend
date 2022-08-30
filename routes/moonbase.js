@@ -6,20 +6,19 @@ const prefix = 'moonbases';
 
 // get data of every metamask address
 router.get('/', async (req, res) => {
-    res.render(`${prefix}/index`)
-})
-
-router.get('/:new', async (req, res) => {
-    //TODO: change to by id
-    res.render(`${prefix}/new`, { moonbase: new MoonBase() })
+    const moonbases = await MoonBase.find({})
+    res.send(moonbases)
 })
 
 // get data based on metamask address as id
-router.get('/:id', async (req, res) => {
-    //TODO: change to by id
-    res.render(`${prefix}/new`)
+router.get('/metamask/:id', async (req, res) => {
+    const moonbase = await MoonBase.find({ metamaskId: `${req.params.id}`})
+    res.send(moonbase)
 })
 
+router.get('/:new', async (req, res) => {
+    res.render(`${prefix}/new`, { moonbase: new MoonBase() })
+})
 
 //TODO: might need a check if there is existing data? first save vs subsequent save
 router.post('/', async (req, res) => {
@@ -38,10 +37,5 @@ router.post('/', async (req, res) => {
         })
     }
 })
-
-// // New Meta Route
-// router.get('/new', (req, res) => {
-//     //res.render('metas/new', { meta: new MoonBase() })
-// })
 
 module.exports = router
