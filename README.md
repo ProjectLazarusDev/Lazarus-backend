@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/26595874/heroku-src-refspec-master-does-not-
 ```
 git push heroku HEAD:master
 ```
+#### MongoDB in NodeJS - Hosting a local database (2020) [Episode #1]
+https://www.youtube.com/watch?v=D0U8vD8m1I0 
+- `mongod` to start localhost database
+- A folder at path "C:\data\db" needs to exist for it to work
