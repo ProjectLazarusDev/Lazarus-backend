@@ -1,6 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const MoonBase = require('../models/moonbase')
+const checkAuth = require('../middlewares/checkAuth.js')
 
 const prefix = 'moonbases';
 
@@ -13,17 +14,17 @@ router.get('/', async (req, res) => {
 // get data based on metamask address as id
 router.get('/:id', async (req, res) => {
     const moonbase = await MoonBase.find({ metamaskAddress: `${req.params.id}` })
-    
+
     const result = {
         metamaskAddress: moonbase?.[0]?.metamaskAddress,
         data: moonbase?.[0]?.data
     }
-    
+
     res.send(result)
 })
 
 // create if data doesn't exist, and update if it does
-router.put('/', async (req, res) => {
+router.put('/', checkAuth, async (req, res) => {
     const resJSON = req.body;
 
     // try update first

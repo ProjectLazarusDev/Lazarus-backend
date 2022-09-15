@@ -8,6 +8,7 @@ const app = express()
 const expressLayouts = require('express-ejs-layouts')
 const cors = require('cors')
 const bodyParser = require('body-parser')
+const cookieParser = require('cookie-parser')
 
 const indexRouter = require('./routes/index')
 const metaRouter = require('./routes/metas')
@@ -22,6 +23,7 @@ app.use(cors())
 app.use(expressLayouts)
 app.use(express.static('public'))
 app.use(bodyParser.urlencoded({ limit: '10mb', extended: false }))
+app.use(cookieParser());
 app.use(express.json())
 
 const mongoose = require('mongoose')

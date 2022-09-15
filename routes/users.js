@@ -4,19 +4,22 @@ if (process.env.NODE_ENV !== 'production') {
 
 const express = require('express')
 const router = express.Router()
-const { sign } = require('jsonwebtoken')
+const jwt = require('jsonwebtoken')
 
 //TODO: might need a check if it is a valid metamask address?
 router.post('/login', async (req, res) => {
     try {
         const resJSON = req.body;
-        const accessToken = sign(
-            { metamaskAddress: resJSON.metamaskAddress },
-            process.env.ACCESS_TOKEN_KEY,
+        const payload = {
+            metamaskAddress: resJSON.metamaskAddress
+        }
+
+        const token = jwt.sign(
+            payload,
+            process.env.JWT_SECRET,
             { expiresIn: '1d' }
         )
-
-        res.cookie('access_token', accessToken, {
+        res.cookie('access_token', token, {
             httpOnly: true
         }).status(200).json({
             metamaskAddress: resJSON.metamaskAddress
