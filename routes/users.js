@@ -6,31 +6,25 @@ const express = require('express')
 const router = express.Router()
 const { sign } = require('jsonwebtoken')
 
-router.post("/login", async (req, res) => {
-    const resJSON = req.body;
-    const accessToken = sign(
-        { metamaskAddress: resJSON.metamaskAddress },
-        process.env.ACCESS_TOKEN_KEY
-    )
+//TODO: might need a check if it is a valid metamask address?
+router.post('/login', async (req, res) => {
+    try {
+        const resJSON = req.body;
+        const accessToken = sign(
+            { metamaskAddress: resJSON.metamaskAddress },
+            process.env.ACCESS_TOKEN_KEY,
+            { expiresIn: '1d' }
+        )
 
-    res.json(accessToken)
-
-    // const { username, password } = req.body;
-
-    // const user = await Users.findOne({ where: { username: username } });
-
-    // if (!user) res.json({ error: "User Doesn't Exist" });
-
-    // bcrypt.compare(password, user.password).then(async (match) => {
-    //   if (!match) res.json({ error: "Wrong Username And Password Combination" });
-
-    //   const accessToken = sign(
-    //     { username: user.username, id: user.id },
-    //     "importantsecret"
-    //   );
-    //   res.json({ token: accessToken, username: username, id: user.id });
-    // });
-
+        res.cookie('access_token', accessToken, {
+            httpOnly: true
+        }).status(200).json({
+            metamaskAddress: resJSON.metamaskAddress
+        })
+    }
+    catch (err) {
+        res.status(500).json(err.message)
+    }
 });
 
 module.exports = router
