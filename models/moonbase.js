@@ -8,6 +8,10 @@ const metaSchema = new mongoose.Schema({
     data: {
         type: JSON,
         required: false
+    },
+    nonce: {
+        type: Number,
+        required: true
     }
 })
 
