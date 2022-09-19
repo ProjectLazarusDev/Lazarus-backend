@@ -46,10 +46,7 @@ router.put('/', checkAuth, async (req, res) => {
                     const newMoonbase = await moonbase.save()
                     res.send(newMoonbase)
                 } catch {
-                    res.render(`${prefix}/new`, {
-                        moonbase: moonbase,
-                        errorMessage: `Error creating MoonBase from ${resJson}`
-                    })
+                    res.status(400).send(`Bad request creating MoonBase!`)
                 }
             }
             else {
