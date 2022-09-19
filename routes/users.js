@@ -20,6 +20,9 @@ router.get('/metamask/nonce', async (req, res) => {
     const nonce = moonbase?.[0]?.nonce;
     //TODO: dbl check if really only creates on very first login
     //should not have a case where metamask exist but not inside but no nonce
+
+    // try update first if a metamask address exists but has no nonce
+    // else fallback to adding address and nonce as a new entry
     if (nonce === undefined) {
         const newNonce = Math.floor(Math.random() * 1000000);
         MoonBase.updateOne(
