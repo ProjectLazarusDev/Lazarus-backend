@@ -23,7 +23,7 @@ router.get('/metamask/nonce', async (req, res) => {
     }
     else {
         const moonbase = await MoonBase.find(
-            { metamaskAddress: resJSON.metamaskAddress },
+            { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
             'nonce')
             .exec();
 
@@ -36,7 +36,7 @@ router.get('/metamask/nonce', async (req, res) => {
         if (nonce === undefined) {
             const newNonce = Math.floor(Math.random() * 1000000);
             MoonBase.updateOne(
-                { metamaskAddress: resJSON.metamaskAddress },
+                { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
                 { nonce: newNonce },
                 async function (err, docs) {
                     if (err) {
@@ -45,7 +45,7 @@ router.get('/metamask/nonce', async (req, res) => {
                     // fallback to adding address and nonce as a new entry
                     else if (docs.matchedCount === 0) {
                         const newMoonbase = new MoonBase({
-                            metamaskAddress: resJSON.metamaskAddress,
+                            metamaskAddress: resJSON.metamaskAddress.toLowerCase(),
                             nonce: newNonce
                         })
                         await newMoonbase.save()
@@ -72,7 +72,7 @@ router.post('/login', async (req, res) => {
         const resJSON = req.body;
         // nonce verification
         const moonbase = await MoonBase.find(
-            { metamaskAddress: resJSON.metamaskAddress },
+            { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
             'nonce')
             .exec();
         if (parseInt(req.cookies.nonce) !== moonbase?.[0]?.nonce) {
@@ -81,7 +81,7 @@ router.post('/login', async (req, res) => {
         else {
             // generate jtw token 
             const payload = {
-                metamaskAddress: resJSON.metamaskAddress
+                metamaskAddress: resJSON.metamaskAddress.toLowerCase()
             }
 
             const token = jwt.sign(
@@ -91,7 +91,7 @@ router.post('/login', async (req, res) => {
             )
             res.cookie('access_token', token, { httpOnly: true })
                 .status(200)
-                .send(`Welcome, ${resJSON.metamaskAddress}`)
+                .send(`Welcome, ${resJSON.metamaskAddress.toLowerCase()}`)
         }
     }
     catch (err) {

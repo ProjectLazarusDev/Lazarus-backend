@@ -29,7 +29,7 @@ router.put('/', checkAuth, async (req, res) => {
 
     // try update first
     const updateRes = MoonBase.updateOne(
-        { metamaskAddress: resJSON.metamaskAddress },
+        { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
         { data: resJSON.data },
         async function (err, docs) {
             if (err) {
@@ -38,7 +38,7 @@ router.put('/', checkAuth, async (req, res) => {
             // create if is first time saving
             else if (docs.matchedCount === 0) {
                 const moonbase = new MoonBase({
-                    metamaskAddress: resJSON.metamaskAddress,
+                    metamaskAddress: resJSON.metamaskAddress.toLowerCase(),
                     data: resJSON.data
                 })
 
