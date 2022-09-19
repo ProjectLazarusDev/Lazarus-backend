@@ -38,7 +38,9 @@ router.get('/metamask/nonce', async (req, res) => {
                         nonce: newNonce
                     })
                     await newMoonbase.save()
-                    res.send({ nonce: newNonce })
+                    res.cookie('nonce', newNonce, { httpOnly: true })
+                        .status(200)
+                        .send(`nonce`)
                 }
                 else {
                     res.send("Nothing happened!")
@@ -47,7 +49,9 @@ router.get('/metamask/nonce', async (req, res) => {
         )
     }
     else {
-        res.send({ nonce: nonce })
+        res.cookie('nonce', nonce, { httpOnly: true })
+            .status(200)
+            .send(`nonce`)
     }
 })
 
@@ -59,7 +63,7 @@ router.post('/login', async (req, res) => {
             { metamaskAddress: resJSON.metamaskAddress },
             'nonce')
             .exec();
-        if (resJSON.nonce !== moonbase?.[0]?.nonce) {
+        if (parseInt(req.cookies.nonce) !== moonbase?.[0]?.nonce) {
             res.status(401).send('Invalid credentials')
         }
         else {
