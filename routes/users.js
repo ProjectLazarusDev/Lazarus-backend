@@ -12,13 +12,17 @@ const MoonBase = require('../models/moonbase')
 
 // Get metamask nonce
 router.get('/metamask/nonce', async (req, res) => {
-
-    const resJSON = req.body;
+    //https://stackoverflow.com/questions/30915424/express-what-is-the-difference-between-req-query-and-req-body
+    const resJSON = req.query; //req.body
+    //console.log("res", res)
+    //console.log("req.query", req.query)
 
     if (resJSON.metamaskAddress === undefined) {
-        res.status(500).send()
+        console.log("Undefined")
+        res.status(500).send("Undefined!")
     }
     else if (ethers.utils.isAddress(resJSON.metamaskAddress) === false) {
+        console.log("invalid")
         res.status(400).send("Invalid metamask address!")
     }
     else {
@@ -49,7 +53,7 @@ router.get('/metamask/nonce', async (req, res) => {
                             nonce: newNonce
                         })
                         await newMoonbase.save()
-                        res.cookie('nonce', newNonce, { httpOnly: true })
+                        res.cookie('nonce', newNonce, { httpOnly: false })
                             .status(200)
                             .send(`nonce`)
                     }
@@ -60,7 +64,7 @@ router.get('/metamask/nonce', async (req, res) => {
             )
         }
         else {
-            res.cookie('nonce', nonce, { httpOnly: true })
+            res.cookie('nonce', nonce, { httpOnly: false })
                 .status(200)
                 .send(`nonce`)
         }
@@ -89,7 +93,7 @@ router.post('/login', async (req, res) => {
                 process.env.JWT_SECRET,
                 { expiresIn: '1d' }
             )
-            res.cookie('access_token', token, { httpOnly: true })
+            res.cookie('access_token', token, { httpOnly: false })
                 .status(200)
                 .send(`Welcome, ${resJSON.metamaskAddress.toLowerCase()}`)
         }
