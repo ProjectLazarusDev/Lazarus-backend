@@ -16,11 +16,9 @@ router.get('/metamask/nonce', async (req, res) => {
     const resJSON = req.query; //req.body
 
     if (resJSON.metamaskAddress === undefined) {
-        console.log("Undefined")
         res.status(500).send("Undefined!")
     }
     else if (ethers.utils.isAddress(resJSON.metamaskAddress) === false) {
-        console.log("invalid")
         res.status(400).send("Invalid metamask address!")
     }
     else {
