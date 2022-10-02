@@ -71,8 +71,10 @@ router.get('/metamask/nonce', async (req, res) => {
 })
 
 router.post('/login', async (req, res) => {
+    console.log("login req.query; ", req.query)
+    console.log("req.cookies.nonce", req.cookies.nonce);
     try {
-        const resJSON = req.body;
+        const resJSON = req.query; //req.body;
         // nonce verification
         const moonbase = await MoonBase.find(
             { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
