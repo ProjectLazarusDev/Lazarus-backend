@@ -14,8 +14,6 @@ const MoonBase = require('../models/moonbase')
 router.get('/metamask/nonce', async (req, res) => {
     //https://stackoverflow.com/questions/30915424/express-what-is-the-difference-between-req-query-and-req-body
     const resJSON = req.query; //req.body
-    //console.log("res", res)
-    //console.log("req.query", req.query)
 
     if (resJSON.metamaskAddress === undefined) {
         console.log("Undefined")
