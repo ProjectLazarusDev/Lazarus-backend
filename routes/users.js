@@ -49,7 +49,9 @@ router.get('/metamask/nonce', async (req, res) => {
                             nonce: newNonce
                         })
                         await newMoonbase.save()
-                        res.cookie('nonce', newNonce, { httpOnly: true })
+                        // https://stackoverflow.com/questions/59990864/what-is-the-difference-between-samesite-lax-and-samesite-strict
+                        res.cookie('nonce', newNonce,
+                            { httpOnly: true, sameSite: 'none', secure: true })
                             .status(200)
                             .send(`nonce`)
                     }
@@ -60,7 +62,8 @@ router.get('/metamask/nonce', async (req, res) => {
             )
         }
         else {
-            res.cookie('nonce', nonce, { httpOnly: true })
+            res.cookie('nonce', nonce,
+                { httpOnly: true, sameSite: 'none', secure: true })
                 .status(200)
                 .send(`nonce`)
         }
@@ -75,6 +78,7 @@ router.post('/login', async (req, res) => {
             { metamaskAddress: resJSON.metamaskAddress.toLowerCase() },
             'nonce')
             .exec();
+        console.log("cookies are ", parseInt(req.cookies.nonce), moonbase?.[0]?.nonce)
         if (parseInt(req.cookies.nonce) !== moonbase?.[0]?.nonce) {
             res.status(401).send('Invalid credentials')
         }
@@ -89,7 +93,8 @@ router.post('/login', async (req, res) => {
                 process.env.JWT_SECRET,
                 { expiresIn: '1d' }
             )
-            res.cookie('access_token', token, { httpOnly: true })
+            res.cookie('access_token', token,
+                { httpOnly: true, sameSite: 'none', secure: true })
                 .status(200)
                 .send(`Welcome, ${resJSON.metamaskAddress.toLowerCase()}`)
         }
