@@ -53,7 +53,7 @@ router.get('/metamask/nonce', async (req, res) => {
                             nonce: newNonce
                         })
                         await newMoonbase.save()
-                        res.cookie('nonce', newNonce, { httpOnly: false })
+                        res.cookie('nonce', newNonce, { httpOnly: true })
                             .status(200)
                             .send(`nonce`)
                     }
@@ -64,7 +64,7 @@ router.get('/metamask/nonce', async (req, res) => {
             )
         }
         else {
-            res.cookie('nonce', nonce, { httpOnly: false })
+            res.cookie('nonce', nonce, { httpOnly: true })
                 .status(200)
                 .send(`nonce`)
         }
@@ -93,7 +93,7 @@ router.post('/login', async (req, res) => {
                 process.env.JWT_SECRET,
                 { expiresIn: '1d' }
             )
-            res.cookie('access_token', token, { httpOnly: false })
+            res.cookie('access_token', token, { httpOnly: true })
                 .status(200)
                 .send(`Welcome, ${resJSON.metamaskAddress.toLowerCase()}`)
         }

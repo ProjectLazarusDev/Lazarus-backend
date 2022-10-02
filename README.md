@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=D0U8vD8m1I0
 #### Authenticating users to your web app using metamask and nodejs
 
 https://blog.devgenius.io/authenticating-users-to-your-web-app-using-metamask-and-nodejs-e920e45e358
+
+#### The Ultimate guide to JWT client side authentication (Stop Using Local Storage !!!)
+
+https://www.youtube.com/watch?v=d2gfJ8UVPDo
