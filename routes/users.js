@@ -12,11 +12,11 @@ const MoonBase = require('../models/moonbase')
 
 // Get metamask nonce
 router.get('/metamask/nonce', async (req, res) => {
-
-    const resJSON = req.body;
+    //https://stackoverflow.com/questions/30915424/express-what-is-the-difference-between-req-query-and-req-body
+    const resJSON = req.query; //req.body
 
     if (resJSON.metamaskAddress === undefined) {
-        res.status(500).send()
+        res.status(500).send("Undefined!")
     }
     else if (ethers.utils.isAddress(resJSON.metamaskAddress) === false) {
         res.status(400).send("Invalid metamask address!")
